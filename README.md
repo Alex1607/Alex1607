@@ -3,7 +3,7 @@ Sup! Nice to see you on my GitHub Page 🙋‍♂️
 Quick summery of myself:  
 ❖ Primary Java Developer  
 ❖ Working at [@CHECK24](https://github.com/CHECK24) in Munich  
-❖ Spare time project(s): DevOps at [@greeveu](https://github.com/greeveu) 
+❖ Spare time project(s): DevOps at [@greeveu](https://github.com/greeveu)  
 ❖ Interested in GO, V and Rust  
   
 
