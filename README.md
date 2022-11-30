@@ -5,7 +5,7 @@ Quick summery of myself:
 ❖ Working at [@CHECK24](https://github.com/CHECK24) in Munich  
 ❖ Spare time project(s): DevOps at [@greeveu](https://github.com/greeveu)  
 ❖ Interested in Rust, GO and V  
-❖ Super exited to developing systems that scale 
+❖ Super exited to develop systems that can scale 
   
 
 If you are interested in projects I have been involved in, you can either look at some on my GitHub page directly or take a look at my main project [@greeveu](https://github.com/greeveu). I am responsible for developing and managing most of the software projects and servers. But please keep in mind that many of the projects I developed for Greev are closed source.
