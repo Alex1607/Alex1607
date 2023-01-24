@@ -1,7 +1,7 @@
 Sup! Nice to see you on my GitHub Page 🙋‍♂️
 
 Quick summery of myself:  
-❖ Primary Java Developer  
+❖ Primary Java Developer and learning Rust  
 ❖ Working at [@CHECK24](https://github.com/CHECK24) in Munich  
 ❖ Spare time project(s): DevOps at [@greeveu](https://github.com/greeveu)  
 ❖ Interested in Rust, GO and V  
